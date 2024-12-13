@@ -28,4 +28,4 @@ La sostenibilidad debe ser una prioridad en el desarrollo y uso de herramientas 
 
 ---
 
-[Anterior](Impacto_ambiental5.md) | [1](Las_aplicaciones_de_la_IA5.md) | [2](inpacto_en_el_sector5.md) | [3](Impacto_ambiental5.md) | [4](Propostes_per_minimitzar_els_impactes_ambientals5.md)  | [Inicio](Lista5.md)
+[Anterior](Impacto_ambiental5.md) | [1](Las_aplicaciones_de_la_IA5.md) | [2](inpacto_en_el_sector5.md) | [3](Impacto_ambiental5.md) | [4](Propostes_per_minimitzar_els_impactes_ambientals5.md)  | [Inicio](5.md)
