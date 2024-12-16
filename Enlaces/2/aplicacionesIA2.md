@@ -2,7 +2,18 @@
 Darktrace utiliza la inteligencia artificial para proteger redes y sistemas mediante la identificación de amenazas cibernéticas en tiempo real. Su enfoque principal es el "Enterprise Immune System", una tecnología basada en IA que analiza patrones de comportamiento en las redes, detectando anomalías que podrían representar ataques como ransomware, phishing o infiltraciones no autorizadas.
 Entre las aplicaciones destacadas están:
 
-- **Detección de amenazas avanzadas:** La IA identifica vulnerabilidades que pasan desapercibidas para los sistemas tradicionales.
-- **Respuesta autónoma:** Darktrace implementa medidas inmediatas y automatizadas para neutralizar ataques antes de que se propaguen.
-- **Visibilidad en tiempo real:** Ofrece un monitoreo constante de dispositivos, usuarios y conexiones.
-- **Análisis predictivo:** Previene ataques mediante el aprendizaje continuo de los patrones de actividad dentro de la red.
+## Detección de amenazas avanzadas
+La IA identifica vulnerabilidades que pasan desapercibidas para los sistemas tradicionales. Darktrace se destaca por su capacidad para identificar amenazas cibernéticas avanzadas que los sistemas tradicionales suelen pasar por alto. Esto se logra mediante su enfoque basado en el aprendizaje automático no supervisado, que permite a la IA analizar grandes volúmenes de datos de red y establecer un modelo base de comportamiento normal para cada entorno. Cuando detecta desviaciones o anomalías, las marca como posibles riesgos.
+
+- **Ejemplos prácticos:** Detección de ataques de día cero, malware polimórfico y tácticas sofisticadas de evasión.
+- **Ventaja diferencial:** A diferencia de las soluciones basadas en firmas o reglas predefinidas, Darktrace puede identificar amenazas nuevas y desconocidas.
+
+## Respuesta autónoma
+La herramienta Antigena de Darktrace permite implementar una respuesta autónoma ante incidentes cibernéticos. Cuando se detecta una anomalía crítica, la IA puede actuar de manera inmediata para contener la amenaza sin necesidad de intervención humana.
+
+**Funciones clave:**
+ - Aislar dispositivos comprometidos de la red.
+ - Bloquear conexiones sospechosas.
+ - Restringir permisos temporales a usuarios potencialmente comprometidos.
+Impacto en la ciberseguridad: Minimiza el tiempo de exposición a las amenazas, reduciendo el impacto potencial de un ataque.
+Uso combinado: La respuesta autónoma es complementaria a los equipos humanos, permitiéndoles enfocarse en estrategias de mitigación y análisis posteriores.
