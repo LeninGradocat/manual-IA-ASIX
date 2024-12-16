@@ -22,4 +22,5 @@ Darktrace proporciona una visibilidad completa de la red en tiempo real, monitor
 **Beneficios clave:**
 - Detecta actividades inusuales antes de que escalen a incidentes críticos.
 - Ofrece paneles intuitivos que facilitan la identificación rápida de amenazas.
- Ejemplo en la práctica: La capacidad de rastrear conexiones internas maliciosas entre dispositivos infectados puede prevenir movimientos laterales dentro de la red, un método común en ataques avanzados.
+
+ **Ejemplo en la práctica:** La capacidad de rastrear conexiones internas maliciosas entre dispositivos infectados puede prevenir movimientos laterales dentro de la red, un método común en ataques avanzados.
