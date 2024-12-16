@@ -7,6 +7,7 @@ La IA identifica vulnerabilidades que pasan desapercibidas para los sistemas tra
 
 **Ejemplos prácticos:**
     Detección de ataques de día cero, malware polimórfico y tácticas sofisticadas de evasión.
+    
 **Ventaja diferencial:**
     A diferencia de las soluciones basadas en firmas o reglas predefinidas, Darktrace puede identificar amenazas nuevas y desconocidas.
 
