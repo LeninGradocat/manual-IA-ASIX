@@ -15,5 +15,11 @@ La herramienta Antigena de Darktrace permite implementar una respuesta autónoma
  - Aislar dispositivos comprometidos de la red.
  - Bloquear conexiones sospechosas.
  - Restringir permisos temporales a usuarios potencialmente comprometidos.
-Impacto en la ciberseguridad: Minimiza el tiempo de exposición a las amenazas, reduciendo el impacto potencial de un ataque.
-Uso combinado: La respuesta autónoma es complementaria a los equipos humanos, permitiéndoles enfocarse en estrategias de mitigación y análisis posteriores.
+
+## Visibilidad en tiempo real
+Darktrace proporciona una visibilidad completa de la red en tiempo real, monitoreando continuamente todos los dispositivos, usuarios, y flujos de datos. Esto incluye tanto entornos corporativos tradicionales como nubes híbridas y dispositivos IoT.
+
+**Beneficios clave:**
+- Detecta actividades inusuales antes de que escalen a incidentes críticos.
+- Ofrece paneles intuitivos que facilitan la identificación rápida de amenazas.
+ Ejemplo en la práctica: La capacidad de rastrear conexiones internas maliciosas entre dispositivos infectados puede prevenir movimientos laterales dentro de la red, un método común en ataques avanzados.
