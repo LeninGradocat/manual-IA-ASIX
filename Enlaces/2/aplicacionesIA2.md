@@ -37,3 +37,5 @@ Una de las capacidades más avanzadas de Darktrace es su habilidad para predecir
 - Anticipación de campañas de phishing dirigidas.
 - Identificación de usuarios o dispositivos con conductas atípicas que podrían ser el preludio de un ataque interno.
 
+[Anterior](2.md) | [1](aplicacionesIA2.md) | [2](impactoSector2.md) | [3](impactoAmbiental2.md) | [4](minimizar2.md)  | [Siguiente](impactoSector2.md)
+
