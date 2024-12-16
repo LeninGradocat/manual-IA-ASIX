@@ -27,3 +27,13 @@ Darktrace proporciona una visibilidad completa de la red en tiempo real, monitor
 - Ofrece paneles intuitivos que facilitan la identificación rápida de amenazas.
 
     **Ejemplo en la práctica:** La capacidad de rastrear conexiones internas maliciosas entre dispositivos infectados puede prevenir movimientos laterales dentro de la red, un método común en ataques avanzados.
+
+## Análisis predictivo
+Una de las capacidades más avanzadas de Darktrace es su habilidad para predecir amenazas mediante el aprendizaje continuo de patrones de actividad en la red. Su IA identifica tendencias que podrían llevar a un incidente, permitiendo a los equipos de seguridad tomar medidas preventivas.
+
+- **Métodos utilizados:** Modelos predictivos basados en análisis estadístico y aprendizaje automático.
+
+**Aplicaciones prácticas:**
+- Anticipación de campañas de phishing dirigidas.
+- Identificación de usuarios o dispositivos con conductas atípicas que podrían ser el preludio de un ataque interno.
+
